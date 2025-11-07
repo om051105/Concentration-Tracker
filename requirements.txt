@@ -1,0 +1,4 @@
+opencv-python>=4.12.0.88
+numpy>=1.26.0
+sounddevice>=0.4.6
+ultralytics>=8.2.0
