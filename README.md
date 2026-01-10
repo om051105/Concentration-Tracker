@@ -72,5 +72,4 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 ---
 
-*Last updated: 2026-01-10*
-*Automatically updated via GitHub Actions*
+*Last updated: 2026-01-10 | Automatically updated via GitHub Actions*

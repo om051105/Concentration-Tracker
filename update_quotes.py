@@ -163,6 +163,8 @@ def update_readme():
     # Create the new motivation section
     new_motivation_section = f"""## 💪 Daily Motivation
 
+Get inspired with a new motivational quote every day! This section is automatically updated daily at midnight UTC.
+
 > **Quote of the Day:**
 > 
 > *"{quote_data['quote']}"*
@@ -171,7 +173,7 @@ def update_readme():
 
 ---
 
-*Last updated: {today}*"""
+*Last updated: {today} | Automatically updated via GitHub Actions*"""
     
     # Pattern to match the motivation section
     pattern = r'## 💪 Daily Motivation\n\n.*?\n\n---\n\n\*Last updated:.*?\*'
