@@ -54,6 +54,18 @@ python ml.py
 - NumPy
 - Webcam
 
+## 🤖 Automation Features
+
+This repository includes an automated daily motivation quote system:
+
+- **Daily Updates**: A GitHub Actions workflow automatically updates the README with a new motivational quote every day at midnight UTC
+- **Quote Database**: Curated collection of 30+ inspiring quotes that rotate daily
+- **Manual Update**: You can also manually update the quote by running:
+  ```bash
+  python update_quotes.py
+  ```
+- **Manual Trigger**: The GitHub Actions workflow can be manually triggered from the Actions tab
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
