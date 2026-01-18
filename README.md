@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"Wake up with determination. Go to bed with satisfaction."*
+> *"Do something today that your future self will thank you for."*
 > 
-> — Unknown
+> — Sean Patrick Flanery
 
 ---
 
-*Last updated: 2026-01-17 | Automatically updated via GitHub Actions*
+*Last updated: 2026-01-18 | Automatically updated via GitHub Actions*
