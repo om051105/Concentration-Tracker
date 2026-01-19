@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"Do something today that your future self will thank you for."*
+> *"Little things make big days."*
 > 
-> — Sean Patrick Flanery
+> — Unknown
 
 ---
 
-*Last updated: 2026-01-18 | Automatically updated via GitHub Actions*
+*Last updated: 2026-01-19 | Automatically updated via GitHub Actions*
