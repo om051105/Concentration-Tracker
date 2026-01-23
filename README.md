@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"Sometimes we're tested not to show our weaknesses, but to discover our strengths."*
+> *"The key to success is to focus on goals, not obstacles."*
 > 
 > — Unknown
 
 ---
 
-*Last updated: 2026-01-22 | Automatically updated via GitHub Actions*
+*Last updated: 2026-01-23 | Automatically updated via GitHub Actions*
