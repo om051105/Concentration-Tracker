@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"What you get by achieving your goals is not as important as what you become by achieving your goals."*
+> *"The only limit to our realization of tomorrow will be our doubts of today."*
 > 
-> — Zig Ziglar
+> — Franklin D. Roosevelt
 
 ---
 
-*Last updated: 2026-01-25 | Automatically updated via GitHub Actions*
+*Last updated: 2026-01-26 | Automatically updated via GitHub Actions*
