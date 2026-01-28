@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"You are never too old to set another goal or to dream a new dream."*
+> *"Act as if what you do makes a difference. It does."*
 > 
-> — C.S. Lewis
+> — William James
 
 ---
 
-*Last updated: 2026-01-27 | Automatically updated via GitHub Actions*
+*Last updated: 2026-01-28 | Automatically updated via GitHub Actions*
