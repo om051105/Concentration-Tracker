@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"Act as if what you do makes a difference. It does."*
+> *"The way to get started is to quit talking and begin doing."*
 > 
-> — William James
+> — Walt Disney
 
 ---
 
-*Last updated: 2026-01-28 | Automatically updated via GitHub Actions*
+*Last updated: 2026-01-29 | Automatically updated via GitHub Actions*
