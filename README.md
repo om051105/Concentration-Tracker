@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"The way to get started is to quit talking and begin doing."*
+> *"The secret of getting ahead is getting started."*
 > 
-> — Walt Disney
+> — Mark Twain
 
 ---
 
-*Last updated: 2026-01-29 | Automatically updated via GitHub Actions*
+*Last updated: 2026-01-30 | Automatically updated via GitHub Actions*
