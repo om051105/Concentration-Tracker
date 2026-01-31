@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"The secret of getting ahead is getting started."*
+> *"Success is not final, failure is not fatal: it is the courage to continue that counts."*
 > 
-> — Mark Twain
+> — Winston Churchill
 
 ---
 
-*Last updated: 2026-01-30 | Automatically updated via GitHub Actions*
+*Last updated: 2026-01-31 | Automatically updated via GitHub Actions*
