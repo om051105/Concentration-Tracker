@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"Success is not final, failure is not fatal: it is the courage to continue that counts."*
+> *"Don't watch the clock; do what it does. Keep going."*
 > 
-> — Winston Churchill
+> — Sam Levenson
 
 ---
 
-*Last updated: 2026-01-31 | Automatically updated via GitHub Actions*
+*Last updated: 2026-02-01 | Automatically updated via GitHub Actions*
