@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"Believe you can and you're halfway there."*
+> *"It does not matter how slowly you go as long as you do not stop."*
 > 
-> — Theodore Roosevelt
+> — Confucius
 
 ---
 
-*Last updated: 2026-02-03 | Automatically updated via GitHub Actions*
+*Last updated: 2026-02-04 | Automatically updated via GitHub Actions*
