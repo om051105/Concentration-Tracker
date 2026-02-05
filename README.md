@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"It does not matter how slowly you go as long as you do not stop."*
+> *"Everything you've ever wanted is on the other side of fear."*
 > 
-> — Confucius
+> — George Addair
 
 ---
 
-*Last updated: 2026-02-04 | Automatically updated via GitHub Actions*
+*Last updated: 2026-02-05 | Automatically updated via GitHub Actions*
