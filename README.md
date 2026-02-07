@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"Success is not how high you have climbed, but how you make a positive difference to the world."*
+> *"The only way to do great work is to love what you do."*
 > 
-> — Roy T. Bennett
+> — Steve Jobs
 
 ---
 
-*Last updated: 2026-02-06 | Automatically updated via GitHub Actions*
+*Last updated: 2026-02-07 | Automatically updated via GitHub Actions*
