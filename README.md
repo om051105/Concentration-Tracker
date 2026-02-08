@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"The only way to do great work is to love what you do."*
+> *"Your limitation—it's only your imagination."*
 > 
-> — Steve Jobs
+> — Unknown
 
 ---
 
-*Last updated: 2026-02-07 | Automatically updated via GitHub Actions*
+*Last updated: 2026-02-08 | Automatically updated via GitHub Actions*
