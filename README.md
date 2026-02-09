@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"Your limitation—it's only your imagination."*
+> *"Push yourself, because no one else is going to do it for you."*
 > 
 > — Unknown
 
 ---
 
-*Last updated: 2026-02-08 | Automatically updated via GitHub Actions*
+*Last updated: 2026-02-09 | Automatically updated via GitHub Actions*
