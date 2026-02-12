@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"Dream it. Wish it. Do it."*
+> *"Success doesn't just find you. You have to go out and get it."*
 > 
 > — Unknown
 
 ---
 
-*Last updated: 2026-02-11 | Automatically updated via GitHub Actions*
+*Last updated: 2026-02-12 | Automatically updated via GitHub Actions*
