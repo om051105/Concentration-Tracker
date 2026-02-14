@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"The harder you work for something, the greater you'll feel when you achieve it."*
+> *"Dream bigger. Do bigger."*
 > 
 > — Unknown
 
 ---
 
-*Last updated: 2026-02-13 | Automatically updated via GitHub Actions*
+*Last updated: 2026-02-14 | Automatically updated via GitHub Actions*
