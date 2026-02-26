@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"The only limit to our realization of tomorrow will be our doubts of today."*
+> *"You are never too old to set another goal or to dream a new dream."*
 > 
-> — Franklin D. Roosevelt
+> — C.S. Lewis
 
 ---
 
-*Last updated: 2026-02-25 | Automatically updated via GitHub Actions*
+*Last updated: 2026-02-26 | Automatically updated via GitHub Actions*
