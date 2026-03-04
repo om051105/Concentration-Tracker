@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"Don't watch the clock; do what it does. Keep going."*
+> *"The future belongs to those who believe in the beauty of their dreams."*
 > 
-> — Sam Levenson
+> — Eleanor Roosevelt
 
 ---
 
-*Last updated: 2026-03-03 | Automatically updated via GitHub Actions*
+*Last updated: 2026-03-04 | Automatically updated via GitHub Actions*
