@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"Success doesn't just find you. You have to go out and get it."*
+> *"The harder you work for something, the greater you'll feel when you achieve it."*
 > 
 > — Unknown
 
 ---
 
-*Last updated: 2026-03-14 | Automatically updated via GitHub Actions*
+*Last updated: 2026-03-15 | Automatically updated via GitHub Actions*
