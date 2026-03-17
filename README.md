@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"Dream bigger. Do bigger."*
+> *"Don't stop when you're tired. Stop when you're done."*
 > 
 > — Unknown
 
 ---
 
-*Last updated: 2026-03-16 | Automatically updated via GitHub Actions*
+*Last updated: 2026-03-17 | Automatically updated via GitHub Actions*
