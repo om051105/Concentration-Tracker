@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"Don't stop when you're tired. Stop when you're done."*
+> *"Wake up with determination. Go to bed with satisfaction."*
 > 
 > — Unknown
 
 ---
 
-*Last updated: 2026-04-16 | Automatically updated via GitHub Actions*
+*Last updated: 2026-04-17 | Automatically updated via GitHub Actions*
