@@ -78,10 +78,10 @@ Get inspired with a new motivational quote every day! This section is automatica
 
 > **Quote of the Day:**
 > 
-> *"The future belongs to those who believe in the beauty of their dreams."*
+> *"Believe you can and you're halfway there."*
 > 
-> — Eleanor Roosevelt
+> — Theodore Roosevelt
 
 ---
 
-*Last updated: 2026-09-30 | Automatically updated via GitHub Actions*
+*Last updated: 2026-10-01 | Automatically updated via GitHub Actions*
